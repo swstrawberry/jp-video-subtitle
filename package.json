@@ -1,6 +1,7 @@
 {
   "name": "jp-video-subtitle",
   "version": "1.0.0",
+  "type": "module",
   "description": "Japanese video auto subtitle server",
   "main": "server.js",
   "scripts": {
